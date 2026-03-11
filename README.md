@@ -18,7 +18,7 @@ Tenho domínio em diversas linguagens e frameworks, como **Angular, Ionic, React
 - **Prefeitura de Cataguases** — Desenvolvedor (2021–2023)  
   Responsável pela manutenção do site institucional e desenvolvimento do aplicativo **Reccat** para a Secretaria do Meio Ambiente (SAMA), construído com Ionic, PHP e MySQL.
 
-- **Cercred** — Cobrador de crédito / TI  
+- **Cercred** — Cobrador de crédito / TI  (2024)
   Atendimento e suporte de TI, manutenção de computadores.
 
 - **Exército Brasileiro** — Atirador (2018)  
@@ -50,6 +50,6 @@ Estou em busca de oportunidades para aplicar e expandir meus conhecimentos, cola
 ## 📫 Vamos conversar?
 
 - **E-mail:** [wiltonfrneto@gmail.com](mailto:wiltonfrneto@gmail.com)
-- **LinkedIn:** *[insira o link do seu LinkedIn aqui]*
+- **LinkedIn:** *https://www.linkedin.com/in/wilton-ferreira-neto-32aa0518b/*
 
 Confira meus projetos e repositórios por aqui! 🚀
